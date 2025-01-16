@@ -9,5 +9,3 @@ This is a Tableau Dashboard that tracks global Earthquake activity across a 30-d
 
 <iframe seamless frameborder="0" src="https://public.tableau.com/shared/BX38ZCNCX?:embed=yes&:display_count=yes&:showVizHome=no" width = '1090' height = '900'></iframe>
 
-?:display_count=n&:origin=viz_share_link
-
