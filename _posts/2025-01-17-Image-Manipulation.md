@@ -85,7 +85,7 @@ plt.show()
   * Stacked and arranged versions of the image using different color channels.
 * The final output included images with specific channel isolations and flipped versions saved as separate files.
 
-## What I Learned
+## Application and Learnings
 
 * **Image Representation**: I learned that images are represented as multi-dimensional arrays, where each pixel is defined by values across multiple color channels (RGB).
 * **Array Manipulations**: Using NumPy, I gained experience with array slicing, which is essential for cropping, isolating color channels, and flipping images.
