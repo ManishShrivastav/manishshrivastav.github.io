@@ -9,7 +9,7 @@ plugins:
 #-------------------------------
 # General Site Settings
 title: Manish Shrivastav
-description: "Hello, I'm Manish, a Data Scientist. My portfolio highlights some exciting projects I've worked on recently, with a focus on driving business impact. Feel free to check out my Github & LinkedIn profiles (or download my Resume) through the links below!"
+description: "Hello, I'm Manish, a Data Scientist ML/Ops Engineer. My portfolio highlights some exciting projects I've worked on recently, with a focus on driving business impact. Feel free to check out my Github & LinkedIn profiles (or download my Resume) through the links below!"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -51,4 +51,5 @@ defaults:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
 
